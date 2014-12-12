@@ -4,6 +4,10 @@ This plugin brings the [Twig templating](http://twig.sensiolabs.org/) to [Kirby 
 
 It is based on Matthew Spencer's [kirby twig plugin](https://github.com/matthewspencer/kirby-twig-plugin), whom I thank for his great work.
 
+*Note: The plugin works with Kirby 2.*
+
+There is (a lot of) room for improvement, so feel free to open issues or PRs if you find something wrong.
+
 ## Installation
 
 You must use [composer](https://getcomposer.org/) to install this plugin. 
